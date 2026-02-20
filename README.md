@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Van Phi
+- 👋 Hi, I’m Van Phi, a Data Scientist
 - 👀 I’m interested in statistic, coding, econometrics, economics and politics also
 - 🌱 I’m currently a data scientist in banking industry
 - 💞️ I’m looking to collaborate on data science projects
